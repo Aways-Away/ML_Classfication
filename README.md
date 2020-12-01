@@ -5,4 +5,6 @@
 
 本文将以两种方法：Logistic regression 和 generative model ，来实现二元线性分类。
 
+参考资料：two PDFs
+
 Model DataSet DownLoading ：https://drive.google.com/uc?id=1KSFIRh0-_Vr7SdiSCZP1ItV7bXPxMD92
